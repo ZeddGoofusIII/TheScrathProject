@@ -1,0 +1,2 @@
+# TheScrathProject
+StartingTheProjectFromScratchOnScratch
